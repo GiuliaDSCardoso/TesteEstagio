@@ -1,0 +1,2 @@
+Question 1:
+o valor da váriavel soma será 2.
